@@ -1,20 +1,88 @@
-.div container {margin: 2rem;
-	  }
+.div container {
+				 margin: 3rem;
+}
 
 .headerh {
-	background-color: #B4E950;
-	width:100rem;
-	height:10rem;
+			background-color: #B4E950;
+			padding-left: 15px;
+			padding-top: 20px;
+			padding-bottom: 50px;
 }
 
 .titlep {
-	font-size:3rem;
+			font-size: 2rem;
+			padding: 20px;
 }
 
 a {
-	text-decoration: none
+	text-decoration: none;
+	color: #000000;
 }
 
-.topnav li{
-	display: inline-block;
+
+.topnavli {
+			display: inline-block;
+			list-style-type: none;
+			padding: 5px 15px 5px 80px;
+}
+
+
+.side {
+		float: left;
+}
+.sidenav {
+			background-color: #00E6E0;
+			margin: 5px;
+			padding: 40px 40px 25px 40px;
+	
+}
+
+.sidebarspacer {
+		background-color: #2DC1E2;
+		margin: 5px;
+		height: 150px;
+
+}
+
+.sidenavli {
+				list-style-type: none;
+				color: #ffffff;
+				text-align: left;
+				padding: 10px 10px 10px 0;
+}
+ 
+.sidenavli a {
+			color: #ffffff;
+}
+
+
+.titlep {
+			background-color: #dcdd4d;
+			color: #ffffff;
+}
+
+.content {
+		color: #000000;
+		background-color: #ffffff;
+		display: block;
+		margin-left: 250px;
+		text-align: center;
+		margin-top: -11px;
+
+}
+
+.cheesetext {
+		margin-top: 60px;
+		margin-left: 60px;
+		margin-right: 60px;
+		text-align: left;
+}
+
+
+.footer {
+		background-color: #AEAFB1;
+		padding-left: 15px;
+		padding-top: 20px;
+		padding-bottom: 50px;
+}
 
