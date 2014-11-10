@@ -86,3 +86,10 @@ a {
 		padding-bottom: 50px;
 }
 
+.footer a {
+		text-decoration: none;
+}
+
+.socialicons {
+		display: inline-block;
+	}
