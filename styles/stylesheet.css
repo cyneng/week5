@@ -92,4 +92,6 @@ a {
 
 .socialicons {
 		display: inline-block;
+		padding: 5px;
+		text-align: right;
 	}
