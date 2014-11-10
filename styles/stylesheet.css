@@ -1,0 +1,20 @@
+.div container {margin: 2rem;
+	  }
+
+.headerh {
+	background-color: #B4E950;
+	width:100rem;
+	height:10rem;
+}
+
+.titlep {
+	font-size:3rem;
+}
+
+a {
+	text-decoration: none
+}
+
+.topnav li{
+	display: inline-block;
+
