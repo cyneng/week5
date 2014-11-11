@@ -1,5 +1,10 @@
-.div container {
-				 margin: 3rem;
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+.container {
+	margin: 10px;
 }
 
 .headerh {
@@ -12,6 +17,9 @@
 .titlep {
 			font-size: 2rem;
 			padding: 20px;
+			font-family: 'Lora' serif;
+			background-color: #dcdd4d;
+			color: #ffffff;
 }
 
 a {
@@ -26,7 +34,13 @@ a {
 			padding: 5px 15px 5px 80px;
 }
 
+.titleh {
+			font-family: 'Lora', serif;
+}
 
+.subtitleh {
+				font-family: 'Lora', serif;
+}
 .side {
 		float: left;
 }
@@ -40,7 +54,7 @@ a {
 .sidebarspacer {
 		background-color: #2DC1E2;
 		margin: 5px;
-		height: 180px;
+		height: 205px;
 
 }
 
@@ -56,10 +70,6 @@ a {
 }
 
 
-.titlep {
-			background-color: #dcdd4d;
-			color: #ffffff;
-}
 
 .content {
 		color: #000000;
@@ -81,9 +91,11 @@ a {
 
 .footer {
 		background-color: #AEAFB1;
-		padding-left: 15px;
-		padding-top: 20px;
-		padding-bottom: 50px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		position: relative;
+		bottom: 0;
+		margin-left: 252px;
 }
 
 .footer a {
