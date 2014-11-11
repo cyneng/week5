@@ -104,8 +104,8 @@ a {
 
 .socialicons {
 		display: inline-block;
-	/*	position: absolute;*/
-		right: 0;
+		position: absolute;
+		right: 10;
 		padding: 5px;
 		margin-right: 10px;
 	}
