@@ -96,6 +96,7 @@ a {
 		position: relative;
 		bottom: 0;
 		margin-left: 252px;
+		overflow: hidden;
 }
 
 .footer a {
@@ -103,13 +104,12 @@ a {
 }
 
 .footerul {
-	/*	position: absolute;
-		right: 10px;*/
-		display: inline-block;
+		list-style-type: none;
+		float: right;
+		margin-right: 10px;
 }
 
 .socialicons {
-		/*display: inline-block;*/
+		display: inline-block;
 		padding: 5px;
-		/*margin-right: 10px;*/
 	}
