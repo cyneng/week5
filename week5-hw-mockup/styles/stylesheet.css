@@ -1,0 +1,118 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+.container {
+	margin: 10px;
+}
+
+.headerh {
+			background-color: #B4E950;
+			padding-left: 15px;
+			padding-top: 20px;
+			padding-bottom: 50px;
+}
+
+.titlep {
+			font-size: 2rem;
+			padding: 20px;
+			font-family: 'Lora' serif;
+			background-color: #dcdd4d;
+			color: #ffffff;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+
+.topnavli {
+			display: inline-block;
+			list-style-type: none;
+			padding: 5px 15px 5px 80px;
+}
+
+.titleh {
+			font-family: 'Lora', serif;
+			margin: 2px;
+}
+
+.subtitleh {
+				font-family: 'Lora', serif;
+				margin: 2px;
+}
+.side {
+		float: left;
+}
+.sidenav {
+			background-color: #00E6E0;
+			margin: 5px;
+			padding: 40px 40px 25px 40px;
+	
+}
+
+.sidebarspacer {
+		background-color: #2DC1E2;
+		margin: 5px;
+		height: 205px;
+
+}
+
+.sidenavli {
+				list-style-type: none;
+				color: #ffffff;
+				text-align: left;
+				padding: 10px 10px 10px 0;
+}
+ 
+.sidenavli a {
+			color: #ffffff;
+}
+
+
+
+.content {
+		color: #000000;
+		background-color: #ffffff;
+		display: block;
+		margin-left: 250px;
+		text-align: center;
+		margin-top: -11px;
+
+}
+
+.cheesetext {
+		margin-top: 60px;
+		margin-left: 60px;
+		margin-right: 60px;
+		text-align: left;
+}
+
+
+.footer {
+		background-color: #AEAFB1;
+		padding-top: px;
+		padding-bottom: 5px;
+		position: relative;
+		bottom: 0;
+		margin-top: 50px;
+		margin-left: 252px;
+		overflow: hidden;
+}
+
+.footer a {
+		text-decoration: none;
+}
+
+.footerul {
+		list-style-type: none;
+		float: right;
+		margin-right: 10px;
+}
+
+.socialicons {
+		display: inline-block;
+		padding: 5px;
+	}
